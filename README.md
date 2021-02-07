@@ -1,4 +1,4 @@
-:seedling: Use it! : https://whatsapp-generator.netlify.app
+Use it! : https://whatsapp-generator.netlify.app :seedling: 
 
 The end of adding random numbers to your contacts!
 
