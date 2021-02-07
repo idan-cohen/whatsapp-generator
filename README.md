@@ -1,1 +1,1 @@
-:seedling: Use it! : whatsapp-generator.netlify.app
+:seedling: Use it! : https://whatsapp-generator.netlify.app
